@@ -1,5 +1,5 @@
 <h1>Projeto Spring Data JPA </h1>
-<h3>Projeto final do treinamento -Simplificando Projetos Java com Spring Boot- oferecido pela <a href="https://dio.me/"><strong> Digital Innovation One.</strong></h3><br>
+<h3>Projeto final do treinamento -Simplificando Projetos Java com Spring Boot- oferecido pela <a href="https://dio.me/"><strong> Digital Innovation One.</strong></h3>
 
 <h2>🎯 Objetivo do Projeto</h2>
 
